@@ -1,1 +1,1 @@
-This is a simple exercise in loading and parseing a .csv file to JSON. You can download the repository and run `node cst-to-json.js` in the terminal from this folder, but you can also see it live at [cloud9](https://ide.c9.io/nataliebaker/csv-to-json)
+This is a simple exercise in loading and parseing a .csv file to JSON. You can download the repository and run `node csv-to-json.js` in the terminal from this folder, but you can also see it live at [cloud9](https://ide.c9.io/nataliebaker/csv-to-json)
